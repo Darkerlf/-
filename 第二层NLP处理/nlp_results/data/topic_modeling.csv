@@ -1,0 +1,9 @@
+topic_id,method,top_words
+0,LDA,"knives, knife, set, bought, gift, use, rust, sharp"
+1,LDA,"knives, sharp, great, set, knife, love, good, quality"
+2,LDA,"knife, sharp, handle, use, blade, cut, hand, great"
+3,LDA,"set, knife, knives, just, block, missing, finger, bought"
+0,NMF,"knives, rust, steak, block, set, cut, like, look"
+1,NMF,"great, quality, price, love, value, product, looks, work"
+2,NMF,"knife, set, good, gift, bought, use, love, beautiful"
+3,NMF,"sharp, nice, super, careful, cut, easy, really, weight"

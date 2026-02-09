@@ -1,0 +1,149 @@
+{
+  "analysis_date": "2026-01-30 16:38:18",
+  "data_summary": {
+    "total_reviews": 2216,
+    "avg_review_length": 171.20261732851986,
+    "date_range": {
+      "start": "2024-01-15",
+      "end": "2026-01-14"
+    }
+  },
+  "bert_sentiment": {
+    "positive": 1532,
+    "negative": 684,
+    "positive_rate": 69.13357400722022
+  },
+  "absa_insights": {
+    "most_mentioned_aspect": "sharpness",
+    "most_positive_aspect": "balance",
+    "most_negative_aspect": "rust",
+    "aspect_stats": {
+      "avg_sentiment": {
+        "sharpness": 0.49,
+        "quality": 0.491,
+        "appearance": 0.452,
+        "handle": 0.308,
+        "value": 0.391,
+        "rust": -0.367,
+        "durability": 0.183,
+        "balance": 0.548
+      },
+      "mention_count": {
+        "sharpness": 1055,
+        "quality": 487,
+        "appearance": 484,
+        "handle": 481,
+        "value": 445,
+        "rust": 286,
+        "durability": 279,
+        "balance": 261
+      },
+      "avg_rating": {
+        "sharpness": 4.295,
+        "quality": 4.263,
+        "appearance": 4.25,
+        "handle": 3.958,
+        "value": 4.137,
+        "rust": 2.839,
+        "durability": 3.717,
+        "balance": 4.49
+      },
+      "mention_rate": {
+        "sharpness": 47.6,
+        "quality": 22.0,
+        "appearance": 21.8,
+        "handle": 21.7,
+        "value": 20.1,
+        "rust": 12.9,
+        "durability": 12.6,
+        "balance": 11.8
+      }
+    }
+  },
+  "top_keywords": [
+    {
+      "keyword": "knife",
+      "score": 0.022756486106916128
+    },
+    {
+      "keyword": "knives",
+      "score": 0.020761038066081813
+    },
+    {
+      "keyword": "this",
+      "score": 0.017679117849724486
+    },
+    {
+      "keyword": "sharp",
+      "score": 0.017212778670680995
+    },
+    {
+      "keyword": "they",
+      "score": 0.01651149979765838
+    },
+    {
+      "keyword": "very",
+      "score": 0.01321779655425518
+    },
+    {
+      "keyword": "great",
+      "score": 0.010760690232022741
+    },
+    {
+      "keyword": "that",
+      "score": 0.010420971409749444
+    },
+    {
+      "keyword": "these",
+      "score": 0.010096719289647641
+    },
+    {
+      "keyword": "them",
+      "score": 0.01005110725744844
+    }
+  ],
+  "top_brands": [
+    {
+      "brand": "cuisinart",
+      "count": 21
+    },
+    {
+      "brand": "henckels",
+      "count": 8
+    },
+    {
+      "brand": "hoshanho",
+      "count": 7
+    },
+    {
+      "brand": "imarku",
+      "count": 5
+    },
+    {
+      "brand": "zwilling",
+      "count": 4
+    }
+  ],
+  "top_materials": [
+    {
+      "material": "steel",
+      "count": 105
+    },
+    {
+      "material": "stainless",
+      "count": 58
+    },
+    {
+      "material": "carbon",
+      "count": 23
+    },
+    {
+      "material": "damascus",
+      "count": 17
+    },
+    {
+      "material": "high carbon",
+      "count": 12
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+aspect,avg_sentiment,mention_count,avg_rating,mention_rate
+sharpness,0.49,1055,4.295,47.6
+quality,0.491,487,4.263,22.0
+appearance,0.452,484,4.25,21.8
+handle,0.308,481,3.958,21.7
+value,0.391,445,4.137,20.1
+rust,-0.367,286,2.839,12.9
+durability,0.183,279,3.717,12.6
+balance,0.548,261,4.49,11.8
