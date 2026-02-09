@@ -1,0 +1,29 @@
+feature,feature_cn,importance
+bsr_rank_inv,BSR Rank Inverse,0.11809768
+log_bsr_rank,BSR Rank (log),0.10161088
+sharpness_sentiment,Sharpness Sentiment,0.07885319
+price_tier,Price Tier,0.07006733
+value_sentiment,Value Sentiment,0.06383547
+image_count,Image Count,0.058172654
+handle_sentiment,Handle Sentiment,0.054576375
+durability_sentiment,Durability Sentiment,0.052446302
+avg_bert_score,BERT Sentiment Score,0.047533605
+balance_sentiment,Balance Sentiment,0.03071222
+appearance_sentiment,Appearance Sentiment,0.030467693
+avg_text_len,Avg Review Length,0.030327737
+brand_popularity,Brand Popularity,0.026512997
+is_fba,Is FBA,0.025068432
+log_rating_count,Review Count (log),0.024847552
+positive_ratio,Positive Review Ratio,0.023157995
+rating_x_count,Rating × Review Count,0.023133533
+title_len,Title Length,0.021247447
+is_top_brand,Is Top Brand,0.02086901
+helpful_mean,Avg Helpful Votes,0.02065882
+quality_sentiment,Quality Sentiment,0.019534633
+bullet_count,Bullet Points,0.015988348
+product_rating,Product Rating,0.01286883
+price_num,Price,0.011310406
+rust_sentiment,Rust-resist Sentiment,0.009616392
+verified_ratio,Verified Purchase Ratio,0.008484372
+has_text_ratio,Has Text Review Ratio,0.0
+has_aplus,Has A+ Content,0.0
